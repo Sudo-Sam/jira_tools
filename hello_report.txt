@@ -1,0 +1,19 @@
+require 'scruffy'
+
+graph = Scruffy::Graph.new
+    graph.title = "Some Kind of Information"
+    graph.renderer = Scruffy::Renderers::Cubed.new
+
+    graph.add :area, 'Jeff', [20, -5, 100, 70, 30, 106],
+      :categories => [:top_left, :bottom_right]    
+    graph.add :area, 'Jerry', [-10, 70, 20, 102, 201, 26],
+      :categories => [:bottom_left, :buttom_right]
+    graph.add :bar,  'Jack', [30, 0, 49, 29, 100, 203],
+      :categories => [:bottom_left, :top_right]
+    graph.add :line, 'Brasten', [42, 10, 75, 150, 130, 70],
+      :categories => [:top_right, :bottom_left]
+    graph.add :line, 'Jim', [-10, -20, 50, 92, -21, 56],
+      :categories => [:top_left, :bottom_right]
+    graph.point_markers = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun']
+    graph.render :to => "multi_test.svg"
+    graph.render  :width => 500, :to => "multi_test.png", :as => 'png'

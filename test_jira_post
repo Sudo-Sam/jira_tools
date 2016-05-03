@@ -1,0 +1,15 @@
+require 'net/http'
+require 'net/https'
+require 'rest-client'
+require 'wordlist'
+
+print "Enter your user Id : "
+username = gets.chomp
+print "Enter your password : "
+Password = gets.chomp
+puts "#{username}", "#{Password}"
+
+uri = 'https://jirasupport.<>.com/rest/api/2/issue/PIPELINE-12045'
+param='{"update": {"components": [{ "add" :{"name": "Payment - 3DS"}}]}}'
+
+RestClient.post uri, params.to_json, :content_type => :json,:accept => :json

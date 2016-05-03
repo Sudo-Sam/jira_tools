@@ -1,0 +1,44 @@
+<td align="LEFT" valign="center" class="statusBGCRITICAL"><a href="extinfo.cgi?type=2&amp;host=cdc-graphite000.bfd&amp;service=PANGAEA%3AApp%3AItemAsset-Read-App%3ADAL%3ANO_Traffic%3AItemAsset-Read-App_Endpoints_Last_30mins">PANGAEA:App:ItemAsset-Read-App:DAL:NO_Traffic:ItemAsset-Read-App_Endpoints_Last_30mins</a></td>
+---------------
+<td align="LEFT" valign="center" class="statusBGCRITICAL"><a href="extinfo.cgi?type=2&amp;host=cdc-graphite000.bfd&amp;service=PANGAEA%3AApp%3AItemAsset-Read-App%3ADAL%3ANO_Traffic%3AItemAsset-Read-App_Endpoints_Last_30mins">PANGAEA:App:ItemAsset-Read-App:DAL:NO_Traffic:ItemAsset-Read-App_Endpoints_Last_30mins</a></td>
+---------------
+<td align="LEFT" valign="center" class="statusBGCRITICAL"><a href="extinfo.cgi?type=2&amp;host=cdc-graphite000.bfd&amp;service=PANGAEA%3AApp%3AItemAsset-Read-App%3Astg-dfw1%3ANO_Traffic%3AItemAsset_Read_App_Endpoints_Last_30mins">PANGAEA:App:ItemAsset-Read-App:stg-dfw1:NO_Traffic:ItemAsset_Read_App_Endpoints_Last_30mins</a></td>
+---------------
+<td align="LEFT" valign="center" class="statusBGCRITICAL"><a href="extinfo.cgi?type=2&amp;host=cdc-graphite000.bfd&amp;service=PANGAEA%3AApp%3AItemAsset-Read-App%3Astg-dfw1%3ANO_Traffic%3AItemAsset_Read_App_Endpoints_Last_30mins">PANGAEA:App:ItemAsset-Read-App:stg-dfw1:NO_Traffic:ItemAsset_Read_App_Endpoints_Last_30mins</a></td>
+---------------
+<td align="LEFT" valign="center" class="statusBGCRITICAL"><a href="extinfo.cgi?type=2&amp;host=cdc-graphite000.bfd&amp;service=PANGAEA%3AApp%3AItemStore-Item-Read-App%3ADAL%3ANO_Traffic%3AItemStore-Item-Read-App_Endpoints_Last_30mins">PANGAEA:App:ItemStore-Item-Read-App:DAL:NO_Traffic:ItemStore-Item-Read-App_Endpoints_Last_30mins</a></td>
+---------------
+<td align="LEFT" valign="center" class="statusBGCRITICAL"><a href="extinfo.cgi?type=2&amp;host=cdc-graphite000.bfd&amp;service=PANGAEA%3AApp%3AItemStore-Item-Read-App%3ADAL%3ANO_Traffic%3AItemStore-Item-Read-App_Endpoints_Last_30mins">PANGAEA:App:ItemStore-Item-Read-App:DAL:NO_Traffic:ItemStore-Item-Read-App_Endpoints_Last_30mins</a></td>
+---------------
+<td align="LEFT" valign="center" class="statusBGCRITICAL"><a href="extinfo.cgi?type=2&amp;host=cdc-graphite000.bfd&amp;service=PANGAEA%3AApp%3AItemStore-Item-Read-App%3Astg-dfw1%3ANO_Traffic%3AItemStore_Item_Read_App_Endpoints_Last_30mins">PANGAEA:App:ItemStore-Item-Read-App:stg-dfw1:NO_Traffic:ItemStore_Item_Read_App_Endpoints_Last_30mins</a></td>
+---------------
+<td align="LEFT" valign="center" class="statusBGCRITICAL"><a href="extinfo.cgi?type=2&amp;host=cdc-graphite000.bfd&amp;service=PANGAEA%3AApp%3AItemStore-Item-Read-App%3Astg-dfw1%3ANO_Traffic%3AItemStore_Item_Read_App_Endpoints_Last_30mins">PANGAEA:App:ItemStore-Item-Read-App:stg-dfw1:NO_Traffic:ItemStore_Item_Read_App_Endpoints_Last_30mins</a></td>
+---------------
+<td align="LEFT" valign="center" class="statusBGCRITICAL"><a href="extinfo.cgi?type=2&amp;host=cdc-graphite000.bfd&amp;service=PANGAEA%3AApp%3ASeller-App%3Astg-dal1%3ANO_Traffic%3ASeller_App_Endpoints_Last_30mins">PANGAEA:App:Seller-App:stg-dal1:NO_Traffic:Seller_App_Endpoints_Last_30mins</a></td>
+---------------
+<td align="LEFT" valign="center" class="statusBGCRITICAL"><a href="extinfo.cgi?type=2&amp;host=cdc-graphite000.bfd&amp;service=PANGAEA%3AApp%3ASeller-App%3Astg-dal1%3ANO_Traffic%3ASeller_App_Endpoints_Last_30mins">PANGAEA:App:Seller-App:stg-dal1:NO_Traffic:Seller_App_Endpoints_Last_30mins</a></td>
+---------------
+<td align="LEFT" valign="center" class="statusBGCRITICAL"><a href="extinfo.cgi?type=2&amp;host=cdc-graphite000.bfd&amp;service=PANGAEA%3AApp%3ASeller-App%3Astg-dfw1%3ANO_Traffic%3ASeller_App_Endpoints_Last_30mins">PANGAEA:App:Seller-App:stg-dfw1:NO_Traffic:Seller_App_Endpoints_Last_30mins</a></td>
+---------------
+<td align="LEFT" valign="center" class="statusBGCRITICAL"><a href="extinfo.cgi?type=2&amp;host=cdc-graphite000.bfd&amp;service=PANGAEA%3AApp%3ASeller-App%3Astg-dfw1%3ANO_Traffic%3ASeller_App_Endpoints_Last_30mins">PANGAEA:App:Seller-App:stg-dfw1:NO_Traffic:Seller_App_Endpoints_Last_30mins</a></td>
+---------------
+<td align="LEFT" valign="center" class="statusBGCRITICAL"><a href="extinfo.cgi?type=2&amp;host=dal-graphite-1&amp;service=PANGAEA%3AApp%3AItem-Pricing%3ADAL%3ANO_Traffic%3AItem_Pricing_Endpoints_Last_15mins">PANGAEA:App:Item-Pricing:DAL:NO_Traffic:Item_Pricing_Endpoints_Last_15mins</a></td>
+---------------
+<td align="LEFT" valign="center" class="statusBGCRITICAL"><a href="extinfo.cgi?type=2&amp;host=dal-graphite-1&amp;service=PANGAEA%3AApp%3AItem-Pricing%3ADAL%3ANO_Traffic%3AItem_Pricing_Endpoints_Last_15mins">PANGAEA:App:Item-Pricing:DAL:NO_Traffic:Item_Pricing_Endpoints_Last_15mins</a></td>
+---------------
+<td align="LEFT" valign="center" class="statusBGCRITICAL"><a href="extinfo.cgi?type=2&amp;host=dal-graphite-1&amp;service=PANGAEA%3AApp%3ASeller-App%3ADAL%3ANO_Traffic%3ASeller_App_Endpoints_Last_15mins">PANGAEA:App:Seller-App:DAL:NO_Traffic:Seller_App_Endpoints_Last_15mins</a></td>
+---------------
+<td align="LEFT" valign="center" class="statusBGCRITICAL"><a href="extinfo.cgi?type=2&amp;host=dal-graphite-1&amp;service=PANGAEA%3AApp%3ASeller-App%3ADAL%3ANO_Traffic%3ASeller_App_Endpoints_Last_15mins">PANGAEA:App:Seller-App:DAL:NO_Traffic:Seller_App_Endpoints_Last_15mins</a></td>
+---------------
+<td align="LEFT" valign="center" class="statusBGCRITICAL"><a href="extinfo.cgi?type=2&amp;host=dfw-graphite-1&amp;service=PANGAEA%3AApp%3ASeller-App%3ADFW%3ANO_Traffic%3ASeller_App_Endpoints_Last_15mins">PANGAEA:App:Seller-App:DFW:NO_Traffic:Seller_App_Endpoints_Last_15mins</a></td>
+---------------
+<td align="LEFT" valign="center" class="statusBGCRITICAL"><a href="extinfo.cgi?type=2&amp;host=dfw-graphite-1&amp;service=PANGAEA%3AApp%3ASeller-App%3ADFW%3ANO_Traffic%3ASeller_App_Endpoints_Last_15mins">PANGAEA:App:Seller-App:DFW:NO_Traffic:Seller_App_Endpoints_Last_15mins</a></td>
+---------------
+<td align="LEFT" valign="center" class="statusBGCRITICAL"><a href="extinfo.cgi?type=2&amp;host=dfw-graphite-1&amp;service=PANGAEA%3AApp%3AShip-Pricing%3ADFW%3AHigh_HTTP206_Errors%3AShip_Pricing_Endpoints_Last_5mins">PANGAEA:App:Ship-Pricing:DFW:High_HTTP206_Errors:Ship_Pricing_Endpoints_Last_5mins</a></td>
+---------------
+<td align="LEFT" valign="center" class="statusBGCRITICAL"><a href="extinfo.cgi?type=2&amp;host=dfw-graphite-1&amp;service=PANGAEA%3AApp%3AShip-Pricing%3ADFW%3AHigh_HTTP206_Errors%3AShip_Pricing_Endpoints_Last_5mins">PANGAEA:App:Ship-Pricing:DFW:High_HTTP206_Errors:Ship_Pricing_Endpoints_Last_5mins</a></td>
+---------------
+<td align="LEFT" valign="center" class="statusBGCRITICAL"><a href="extinfo.cgi?type=2&amp;host=dfw-graphite-1&amp;service=PANGAEA%3AApp%3Agroup-read-app%3ADFW%3AHigh_HTTP206_Errors%3Agroup-read-app_Endpoints_Last_5mins">PANGAEA:App:group-read-app:DFW:High_HTTP206_Errors:group-read-app_Endpoints_Last_5mins</a></td>
+---------------
+<td align="LEFT" valign="center" class="statusBGCRITICAL"><a href="extinfo.cgi?type=2&amp;host=dfw-graphite-1&amp;service=PANGAEA%3AApp%3Agroup-read-app%3ADFW%3AHigh_HTTP206_Errors%3Agroup-read-app_Endpoints_Last_5mins">PANGAEA:App:group-read-app:DFW:High_HTTP206_Errors:group-read-app_Endpoints_Last_5mins</a></td>
+---------------

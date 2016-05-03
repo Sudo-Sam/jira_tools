@@ -1,0 +1,5 @@
+MCSE Lite|10.65.205.229
+IRO|10.65.77.129
+Item Store|dal-cappblx022
+Roll ups|10.65.204.220
+EIC Cassandra|10.65.204.202
