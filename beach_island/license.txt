@@ -1,0 +1,11 @@
+Model Information:
+* title:	Beach island
+* source:	https://sketchfab.com/3d-models/beach-island-a1b7dbb587df4937a6965e7e24403485
+* author:	neon_dust (https://sketchfab.com/h_miller)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Beach island" (https://sketchfab.com/3d-models/beach-island-a1b7dbb587df4937a6965e7e24403485) by neon_dust (https://sketchfab.com/h_miller) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
